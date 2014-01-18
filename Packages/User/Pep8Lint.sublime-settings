@@ -1,0 +1,5 @@
+{
+    "popup": false,
+    // highlight errors (valid options are "outlined", "dot", false)
+    "highlight": "dot"
+}

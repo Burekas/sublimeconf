@@ -1,0 +1,7 @@
+---
+description: coding utf8
+tabTrigger:  #!
+scope:       source.python
+---
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-

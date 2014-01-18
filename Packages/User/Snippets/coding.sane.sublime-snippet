@@ -1,0 +1,5 @@
+<snippet><description>coding utf8</description><tabTrigger>#!</tabTrigger><scope>source.python</scope><content>
+<![CDATA[#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+]]>
+</content></snippet>

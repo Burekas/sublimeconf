@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"Gitignore",
+		"jQuery Snippets pack",
+		"Lazy Backbone.js",
+		"LESS",
+		"LESS-build",
+		"Meld diff",
+		"Origami",
+		"Package Control",
+		"Prefixr",
+		"Pretty JSON",
+		"ProtoBuf Code Formatter",
+		"Python PEP8 Autoformat",
+		"Python Pep8 Lint",
+		"SaneSnippets",
+		"SideBarEnhancements",
+		"SublimeRope",
+		"Terminal",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets"
+	]
+}

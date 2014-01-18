@@ -1,0 +1,6 @@
+---
+description: pudb
+tabTrigger:  pudb
+scope:       source.python
+---
+from pudb import set_trace;set_trace()
